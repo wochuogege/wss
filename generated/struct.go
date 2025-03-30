@@ -1,8 +1,8 @@
 package generated
 
 import (
-	"github.com/jwwsjlm/douyinlive/generated/douyin"
-	"github.com/jwwsjlm/douyinlive/generated/new_douyin"
+	"github.com/wochuogege/wss/generated/douyin"
+	"github.com/wochuogege/wss/generated/new_douyin"
 	"google.golang.org/protobuf/reflect/protoreflect"
 )
 
